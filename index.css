@@ -1,0 +1,16 @@
+#parent{
+    border-style:dashed ;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+#child{
+    border-radius: 5px;
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
